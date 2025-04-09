@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MBA Jargon Dictionary</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>MBA Jargon Dictionary</h1>
+            <p class="subtitle">Your personalized business terminology reference</p>
+        </header>
+
+        <div class="feature-section">
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Search for MBA terms...">
+                <button id="search-btn"><i class="fas fa-search"></i></button>
+            </div>
+            
+            <div class="category-filter">
+                <button class="category-btn active" data-category="all">All</button>
+                <button class="category-btn" data-category="finance">Finance</button>
+                <button class="category-btn" data-category="marketing">Marketing</button>
+                <button class="category-btn" data-category="strategy">Strategy</button>
+                <button class="category-btn" data-category="operations">Operations</button>
+                <button class="category-btn" data-category="economics">Economics</button>
+                <button class="category-btn" data-category="leadership">Leadership</button>
+            </div>
+        </div>
+
+        <div class="main-content">
+            <div class="term-of-the-day">
+                <h3>Term of the Day</h3>
+                <div id="tod-term" class="tod-card">
+                    <h4 id="tod-title">Loading...</h4>
+                    <p id="tod-definition"></p>
+                    <span id="tod-category" class="category-tag"></span>
+                </div>
+            </div>
+
+            <div class="dictionary-section">
+                <div class="section-header">
+                    <h2>Dictionary</h2>
+                    <div class="result-count">
+                        <span id="result-count">0</span> terms found
+                    </div>
+                </div>
+                
+                <div id="dictionary-results" class="results-container">
+                    <!-- Terms will be dynamically inserted here -->
+                </div>
+            </div>
+
+            <div class="bookmarks-section">
+                <div class="section-header">
+                    <h2>Your Bookmarks</h2>
+                    <button id="clear-bookmarks" class="clear-btn">Clear All</button>
+                </div>
+                <div id="bookmarks-container" class="results-container">
+                    <!-- Bookmarked terms will be inserted here -->
+                </div>
+            </div>
+        </div>
+
+        <!-- Term Details Modal -->
+        <div id="term-modal" class="modal">
+            <div class="modal-content">
+                <span class="close-modal">&times;</span>
+                <h2 id="modal-term"></h2>
+                <div class="modal-meta">
+                    <span id="modal-category" class="category-tag"></span>
+                    <button id="bookmark-btn" class="bookmark-toggle">
+                        <i class="far fa-bookmark"></i> Bookmark
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <h3>Definition</h3>
+                    <p id="modal-definition"></p>
+                    
+                    <h3>Example Usage</h3>
+                    <p id="modal-example"></p>
+                    
+                    <div class="notes-section">
+                        <h3>Your Notes</h3>
+                        <textarea id="user-notes" placeholder="Add your personal notes about this term..."></textarea>
+                        <button id="save-notes" class="save-btn">Save Notes</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

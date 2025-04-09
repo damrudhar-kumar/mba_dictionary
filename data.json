@@ -1,0 +1,122 @@
+[
+    {
+        "term": "SWOT Analysis",
+        "definition": "A strategic planning technique used to identify and analyze the Strengths, Weaknesses, Opportunities, and Threats related to business competition or project planning.",
+        "category": "strategy",
+        "example": "Before launching the new product, the team conducted a SWOT analysis to evaluate its potential in the market."
+    },
+    {
+        "term": "NPV (Net Present Value)",
+        "definition": "The difference between the present value of cash inflows and the present value of cash outflows over a period of time, used in capital budgeting to analyze the profitability of an investment.",
+        "category": "finance",
+        "example": "The finance team calculated the NPV of the proposed project to determine if it would create value for shareholders."
+    },
+    {
+        "term": "Supply Chain",
+        "definition": "The entire network of entities, directly or indirectly interlinked and interdependent in serving the same consumer or customer, including suppliers, manufacturers, transporters, warehouses, retailers, and customers.",
+        "category": "operations",
+        "example": "The company optimized its supply chain to reduce delivery times and cut costs."
+    },
+    {
+        "term": "Brand Equity",
+        "definition": "The commercial value that derives from consumer perception of the brand name of a particular product or service, rather than from the product or service itself.",
+        "category": "marketing",
+        "example": "Apple's strong brand equity allows it to charge premium prices for its products."
+    },
+    {
+        "term": "Porter's Five Forces",
+        "definition": "A framework for analyzing the level of competition within an industry and business strategy development. The five forces are: threat of new entrants, threat of substitutes, bargaining power of buyers, bargaining power of suppliers, and competitive rivalry.",
+        "category": "strategy",
+        "example": "Using Porter's Five Forces analysis, we determined that the industry has high barriers to entry but intense competition among existing players."
+    },
+    {
+        "term": "ROI (Return on Investment)",
+        "definition": "A performance measure used to evaluate the efficiency or profitability of an investment or compare the efficiency of several different investments.",
+        "category": "finance",
+        "example": "The marketing campaign had an ROI of 250%, meaning for every dollar spent, $2.50 was earned in return."
+    },
+    {
+        "term": "CRM (Customer Relationship Management)",
+        "definition": "Practices, strategies and technologies that companies use to manage and analyze customer interactions and data throughout the customer lifecycle, with the goal of improving business relationships with customers, assisting in customer retention and driving sales growth.",
+        "category": "marketing",
+        "example": "The company implemented a new CRM system to better track customer interactions and personalize marketing efforts."
+    },
+    {
+        "term": "Lean Manufacturing",
+        "definition": "A systematic method for waste minimization within a manufacturing system without sacrificing productivity, derived mostly from the Toyota Production System.",
+        "category": "operations",
+        "example": "By adopting lean manufacturing principles, the factory reduced its inventory costs by 30%."
+    },
+    {
+        "term": "Blue Ocean Strategy",
+        "definition": "The simultaneous pursuit of differentiation and low cost to open up a new market space and create new demand, making the competition irrelevant.",
+        "category": "strategy",
+        "example": "Instead of competing in the crowded smartphone market, the company used blue ocean strategy to create a new category of wearable devices."
+    },
+    {
+        "term": "Cash Flow",
+        "definition": "The net amount of cash and cash-equivalents being transferred into and out of a business, used as an indicator of a company's financial health.",
+        "category": "finance",
+        "example": "Despite reporting profits, the company faced liquidity issues due to negative cash flow from operations."
+    },
+    {
+        "term": "Market Segmentation",
+        "definition": "The process of dividing a broad consumer or business market into sub-groups of consumers based on some type of shared characteristics.",
+        "category": "marketing",
+        "example": "The company used market segmentation to identify and target young professionals with its premium coffee products."
+    },
+    {
+        "term": "Six Sigma",
+        "definition": "A set of techniques and tools for process improvement, aiming to improve the quality of process outputs by identifying and removing the causes of defects and minimizing variability.",
+        "category": "operations",
+        "example": "After implementing Six Sigma methodologies, the production line saw a 50% reduction in defects."
+    },
+    {
+        "term": "BCG Matrix",
+        "definition": "A portfolio management framework for analyzing business units or product lines based on their market growth rate and relative market share, categorizing them as Dogs, Question Marks, Stars, or Cash Cows.",
+        "category": "strategy",
+        "example": "Using the BCG Matrix, the company decided to divest its Dogs and invest more in its Stars."
+    },
+    {
+        "term": "EBITDA",
+        "definition": "Earnings Before Interest, Taxes, Depreciation, and Amortization, a measure of a company's operating performance that shows earnings before the influence of accounting and financial deductions.",
+        "category": "finance",
+        "example": "The company's EBITDA margin improved from 15% to 18%, indicating better operational efficiency."
+    },
+    {
+        "term": "4Ps of Marketing",
+        "definition": "The marketing mix of Product, Price, Place, and Promotion, fundamental elements in developing a marketing strategy.",
+        "category": "marketing",
+        "example": "When launching the new product, the marketing team carefully considered all 4Ps to ensure market success."
+    },
+    {
+        "term": "Kaizen",
+        "definition": "A Japanese business philosophy of continuous improvement of working practices, personal efficiency, etc.",
+        "category": "operations",
+        "example": "The factory implemented Kaizen principles, encouraging all employees to suggest small improvements to their work processes."
+    },
+    {
+        "term": "Disruptive Innovation",
+        "definition": "An innovation that creates a new market and value network and eventually disrupts an existing market and value network, displacing established market-leading firms, products, and alliances.",
+        "category": "strategy",
+        "example": "Digital photography was a disruptive innovation that eventually made film photography obsolete."
+    },
+    {
+        "term": "Liquidity",
+        "definition": "The availability of liquid assets to a company or market, or how quickly something can be converted to cash.",
+        "category": "finance",
+        "example": "The company maintained high liquidity to ensure it could meet its short-term obligations."
+    },
+    {
+        "term": "Brand Positioning",
+        "definition": "The process of positioning your brand in the mind of your customers by creating a unique and consistent brand image.",
+        "category": "marketing",
+        "example": "Through effective brand positioning, the company established itself as the premium option in its category."
+    },
+    {
+        "term": "Just-in-Time (JIT)",
+        "definition": "An inventory strategy companies employ to increase efficiency and decrease waste by receiving goods only as they are needed in the production process.",
+        "category": "operations",
+        "example": "The automotive plant adopted JIT inventory management to reduce storage costs and minimize waste."
+    }
+]
